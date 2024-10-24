@@ -1,4 +1,8 @@
-# 📒 S5 Notes
+<div style="display: flex; gap: 6px; align-items:center; font-size: 2rem">
+<img src="./assets/icons/icon.png" alt="S5 Notes Logo" width="30px" height="30px">
+S5 Notes
+</div>
+
 
 S5 Notes is a **simple** and **easy-to-use** note-taking app designed with a **modern, dynamic theme** that adapts to your device’s color scheme. Built with usability and aesthetics in mind, S5 Notes aims to be your go-to app for jotting down thoughts, to-do lists, and ideas, with more exciting features on the way!
 
@@ -23,6 +27,8 @@ S5 Notes is a **simple** and **easy-to-use** note-taking app designed with a **m
 
 <img src="./assets/preview/preview-2.png" alt="S5 Notes Preview 2" style="border-radius: 16px;">
 
+## ⚙ Still Under Development
+This project is still under development. So stay tuned for the first release.
 
 ## 🤝 Contributions
 
