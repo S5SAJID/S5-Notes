@@ -1,0 +1,23 @@
+TODO
+🔳 Design Notes Page
+🔳 Setup Title Changing Tech
+🔳 Create New Notes Creation Page
+🔳 Setup New Notes Creation Page
+
+
+DOING
+🎯 Setup Things with Provider
+🎯 Fix Multiple Notes Rendering in the Notes Page
+
+
+DONE
+✅ Project Setup
+✅ Responsiveness
+✅ Basic Structure
+✅ Index Page
+✅ Notes Page
+✅ Notes Editor Page
+✅ Provider Setup
+✅ Notes Modal
+✅ Notes Provider
+✅ Setup Things with Provider
